@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://b3457m0d3.github.io/periodic-table/atom.xml" rel="self"/>
+  <link href="http://b3457m0d3.github.io/periodic-table/"/>
+  <updated>2016-05-28T11:28:01-04:00</updated>
+  <id>http://b3457m0d3.github.io/periodic-table/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
